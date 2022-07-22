@@ -1,0 +1,64 @@
+date: 13/5/22 ---Jpa  inheritance-association(Mapping Inheritance)--
+ppt:spring_jpa_module02/////////////////ProjectName:table_per_sub_class 
+
+date: 14/5/22 ---Jpa single table inheritance-association
+ppt:spring_jpa_module02/////////////////ProjectName:Singletable_per_sub_class 
+
+
+date:16/5/22 ----Entity graph
+ppt:Spring-jpa-rest-Module3//////////////// ProjectName:Spring_jpa_entity-graph
+
+date:16/5/22 and 17/5/22 ----Rest Api
+ppt:Spring-jpa-rest-Module/3/////////////// ProjectName:Spring_jpa_rest api
+
+date 17/5/22-----sample code demo
+ppt:Spring jpa-rest-module3////////////////////project:Driver-Service-Client
+
+
+date 18/5/22---------spring security
+ppt:Spring-jpa-restModule3/////////////////project:Spring Security
+
+date: 19/5/22----------------Spring aop
+ppt:Spring-jpa-restModule3/////////////////project:AOP_Example
+
+
+date: 19/5/22----------------Caching in spring boot
+ppt:Spring-jpa-restModule3/////////////////project:Spring-rest-with-caching
+
+date: 23/5/22----------------load Balance
+ppt:MicroService-1/////////////////project:EurekaServerRegister,MicroService1,MicroService2
+
+
+date: 23/5/22----------------Spring cloud config
+ppt:MicroService-1/////////////////project:CongfigServer,ConfigClient
+
+revision
+
+date: 13/7/22----------------MicroService
+ppt:MicroService/////////////////project:cab-driver-service,services-registry-driver,cab-driver-service-client,trip-detail-service
+
+
+
+date: 14/7/22----------------Spring cloud gateway
+ppt:MicroService-2/////////////////project:cab-driver-service,services-registry-driver,cab-driver-service-client,trip-detail-service,Api-gateway,
+
+
+date: 14/7/22----------------catalog-cloud gateway filters
+ppt:MicroService-2/////////////////project:cab-driver-service,services-registry-driver,cab-driver-service-client,trip-detail-service,Api-gateway,catalog-service,catalog-service-client
+
+
+date: 14/7/22----------------Spring cloud circuit breaker
+ppt:MicroService-2/////////////////project:catalog-service-client,catalog-service
+
+
+
+date: 18/7/22----------------JWT- json web token
+ppt:MicroService-2/////////////////project:jwt-example
+
+
+
+date: 18/7/22----------------OAuth
+ppt:MicroService-2/////////////////project:oauth-password-grant-type
+
+
+ html-vscode

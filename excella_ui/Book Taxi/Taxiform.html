@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>Taxi Form</title>
+   
+   
+<style >
+   
+    body{
+        background-image: url(/html/images/background.jpg);
+    }
+    h1{
+        
+        text-align: center;
+        color: white;
+       
+    }
+    section{
+        text-align: center;
+        border: 10px solid goldenrod;
+        border-radius: 40px 40px;
+        margin-top: 200px;
+       margin-left: 400px;
+       margin-right: 400px;
+    }
+    div{
+        padding-bottom: 10px ;
+    }
+    
+</style>
+</head>
+<body>
+    
+    
+    <h1>Taxi Form</h1>
+    <header>
+        <section>
+            <form action="">
+
+                <div>
+                    <div><label for="customerName">CustomerName</label>
+                        <input type="text" name="customerName" id="customerName" placeholder="Name" required>
+                    </div>
+                    <div>
+                        <label for="requestedDate">RequestedDate&Time</label>
+                        <input type="date" name="requestedDate" id="requestedDate"></div>
+                    <div>
+                        <label for="pickUppoint">PickUp Point</label>
+                        <input type="text" name="pickUppoint" id="pickUppoint"placeholder="pickUppoint" required>
+                    </div>
+                    <div>
+                        <label for="dropPoint">Drop Point</label>
+                        <input type="text" name="dropPoint" id="dropPoint" placeholder="dropPoint" required>
+                    </div>
+                    <div><label for="mobilNumber">Customer Number</label>
+                        <input type="tel" name="mobilNumber" id="mobilNumber"placeholder="mobilNumber" required></div>
+                    <div>
+                        <label for="vechileType">Vechile Type</label>
+                        <select name="vechileType" id="vechileType">
+                            <option  value="CAR">Car</option>
+                            <option  value="TEMPO">Tempo</option>
+                            <option  value="TRAVELLER">Traveller</option>
+                            <option  value="BUS">Bus</option>
+                        </select>
+                        </div>
+                    <div>
+                        <label for="specialInstruction">Special Instruction</label>
+                        <textarea name="specialInstruction" id="specialInstruction" spellcheck="true" ></textarea>
+                        
+                </div>
+                <div>
+                    <input type="reset" value="Clear">
+                    <input type="submit" value="Register"></div>
+            </form>
+        </section>
+    </header>
+</body>
+</html>
